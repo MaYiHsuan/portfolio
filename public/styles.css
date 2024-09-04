@@ -1,13 +1,29 @@
+  .header-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff; /* Header background color */
+    color: white; /* Header text color */
+    padding: 10px 20px; /* Padding inside the header */
+    z-index: 1000; /* Ensures the header is on top of other elements */
+  }
+
+  /* Add padding to the body to avoid content being hidden behind the fixed header */
+  body {
+    font-family: Arial;
+  }
+  
   .nav-link {
-    color: #333; 
+    color: #333!important; 
   }
   
   .nav-link:hover {
-    color: #999; 
+    color: #999!important; 
   }
   
   .nav-link.active {
-    color: #999;
+    color: #999!important;
   }
   .nav-link.active {
     background-color: #333 !important;
@@ -22,4 +38,195 @@
     color: #999;
   }
   
- 
+  .text-muted{
+    color: #333 !important; 
+  }
+
+  .icon-large {
+    font-size: 1.5rem;
+  }
+
+  .text3{
+    color: #999;
+  }
+
+.fixed-height-carousel-item {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.fixed-height-carousel-item img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: none !important;
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    position: relative; /* 添加相對定位 */
+}
+
+/* 自定義箭頭樣式 */
+.carousel-control-prev-icon::before,
+.carousel-control-next-icon::before {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    border: solid #fff;
+    border-width: 0 3px 3px 0;
+    position: absolute; /* 使用絕對定位 */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(135deg); /* 居中並旋轉 */
+}
+
+.carousel-control-next-icon::before {
+    transform: translate(-50%, -50%) rotate(-45deg); /* 居中並旋轉 */
+}
+
+/* 懸停效果 */
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+    background-color: rgba(200, 200, 200, 0.619);
+    border-radius: 50%;
+}
+
+.carousel-indicators li {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-indicators .active {
+    background-color: #000;
+}
+
+:lang(zh),
+:lang(zh-Hant),
+:lang(zh-Hans),
+.chinese-text {
+  font-family: 'Noto Sans TC', Arial;
+
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 默認為16:9橫式比例 */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container.portrait {
+  padding-bottom: 85%;
+  text-align: center;
+  position: relative;
+   /* 9:16直式比例 */
+}
+
+.video-container.landscape {
+  padding-bottom: 56.25%; /* 16:9橫式比例 */
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video-container.portrait video {
+  max-width: 40%; /* 縮小影片 */
+  height: auto;
+  margin: 0 auto; /* 確保影片在容器內水平居中 */
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* 完全居中 */
+}
+
+.full-width-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.half-width {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .half-width {
+    width: 100%;
+  }
+}
+
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dots-animation::after {
+  content: '...';
+  animation: dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes dots {
+  0%, 20% {
+      content: '';
+  }
+  40% {
+      content: '.';
+  }
+  60% {
+      content: '..';
+  }
+  80%, 100% {
+      content: '...';
+  }
+
+}
+.text-with-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px; /* 设置每个单词之间的间距 */
+  font-size: 15px; /* 调整字体大小 */
+}
+
+.text-with-buttons span {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px; /* 设置内边距以模拟按钮的大小 */
+  border: 1px solid #6c757d; /* 按钮边框颜色 */
+  border-radius: 5px; /* 圆角效果 */
+  background-color: transparent; /* 背景色透明 */
+  color: #6c757d; /* 文字颜色 */
+  font-size: 15px; /* 调整字体大小 */
+  text-align: center;
+}
+
+.text-with-buttons span:hover {
+  background-color: #e9ecef; /* 鼠标悬停时的背景颜色 */
+}
+
