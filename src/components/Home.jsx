@@ -41,7 +41,7 @@ function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="/images/ui/ootd/ootd1.jpg"
+              src="/images/ui/ootd/網頁ootd.jpg"
               alt="4 slide"
               style={{ height: "100vh", objectFit: "cover" }}
             />
@@ -57,8 +57,16 @@ function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="/images/game/game2.jpg"
+              src="/images/cindy/風景2.jpg"
               alt="6 slide"
+              style={{ height: "100vh", objectFit: "cover" }}
+            />
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src="/images/cindy/風景.jpg"
+              alt="7 slide"
               style={{ height: "100vh", objectFit: "cover" }}
             />
           </Carousel.Item>
