@@ -66,7 +66,7 @@ export const featurettes = [
             "/images/folwer/系列徽章3.jpg",
             "/images/folwer/袋子系列2.jpg"
           ],
-        videoUrl: "/video/尋找桃花廣告定案h264.mp4"
+        
     },
     {
         heading: "幽-静か",
@@ -108,7 +108,7 @@ export const featurettes = [
             "/images/ui/dog/刊登送養.jpg",
             "/images/ui/dog/Device Mockup.jpg"
           ],
-        videoUrl: "/video/寵物領養平台網站 錄影.mp4",
+        
         reverse: true
     },
     {
@@ -135,7 +135,7 @@ export const featurettes = [
             "/images/ui/ootd/ootd2.jpg",
             "/images/ui/ootd/ootd3.jpg"
           ],
-        videoUrl: "/video/多媒體設計錄影.mp4",
+        
         reverse: true
     },
     {
