@@ -12,7 +12,7 @@ function About() {
     <div className="container" style={{marginTop: '90px'}}>
         <div className="row mb-4">
             <div style={{ display: 'flex', justifyContent: 'center', marginTop: '10px' }}>
-                <Avatar alt="Cindy" src="/images/cindy/大頭照.jpg" sx={{ width: 200, height: 200 }}/>
+                <Avatar alt="Cindy" src="/portfolio/public/images/cindy/大頭照.jpg" sx={{ width: 200, height: 200 }}/>
             </div>
             <div>
                 <p className="dm-serif-display-regular" style={{display: 'flex', justifyContent: 'center', fontSize: '35px'}}>
@@ -29,7 +29,7 @@ function About() {
                 </p>
             </div>
             <div style={{ width: '1332px', height: '300px', overflow: 'hidden', marginTop: '30px', marginBottom: '50px' }}>
-                <img src="/images/photo.jpg" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                <img src="/portfolio/public/images/photo.jpg" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                 <div className="dm-serif-display-regular" style={{
                     position: 'absolute',
                     bottom: '2px', // Adjust the position as needed

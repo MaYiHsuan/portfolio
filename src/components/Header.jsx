@@ -7,7 +7,7 @@ function Header() {
         <div className="container">
             <header className="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom header-fixed">
                 <Link to="/" className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-                    <img src= "/images/CIS/logo雲 black.png" width="30" className="me-2"/>
+                    <img src= "/portfolio/public/images/CIS/logo雲 black.png" width="30" className="me-2"/>
                     <span className="fs-4">Cindy's Portfolio</span>
                 </Link>
 
