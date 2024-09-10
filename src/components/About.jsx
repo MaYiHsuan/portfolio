@@ -12,7 +12,7 @@ function About() {
     <div className="container" style={{marginTop: '90px'}}>
         <div className="row mb-4">
             <div style={{ display: 'flex', justifyContent: 'center', marginTop: '10px' }}>
-                <Avatar alt="Cindy" src="/portfolio/public/images/cindy/大頭照.jpg" sx={{ width: 200, height: 200 }}/>
+                <Avatar alt="Cindy" src="https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/cindy/大頭照.jpg" sx={{ width: 200, height: 200 }}/>
             </div>
             <div>
                 <p className="dm-serif-display-regular" style={{display: 'flex', justifyContent: 'center', fontSize: '35px'}}>
@@ -20,7 +20,7 @@ function About() {
                 </p>
                 <p lang="zh" className="chinese-text" style={{display: 'flex', justifyContent: 'center', textAlign: 'center'}}>
                     Hi! 我是馬苡瑄 (Cindy)，出生於2001.05.13，畢業於銘傳大學-商業設計學系，<br />
-                    目標是成為一位跨領域的台灣設計師，並在多個設計領域中不斷成長和挑戰自己，<br />
+                    目標是成為一位跨領域的設計師，並在多個設計領域中不斷成長和挑戰自己，<br />
                     因為設計對於我來說是連結生活的方式，可以用不同的角度去探索世界，
                 </p>
                 <p lang="zh" className="chinese-text" style={{display: 'flex', justifyContent: 'center', lineHeight: '0px'}}>
@@ -29,20 +29,7 @@ function About() {
                 </p>
             </div>
             <div style={{ width: '1332px', height: '300px', overflow: 'hidden', marginTop: '30px', marginBottom: '50px' }}>
-                <img src="/portfolio/public/images/photo.jpg" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-                <div className="dm-serif-display-regular" style={{
-                    position: 'absolute',
-                    bottom: '2px', // Adjust the position as needed
-                    right: '0%',
-                    transform: 'translateX(-50%)',
-                    color: 'white',
-                    fontSize: '15px',
-                    textAlign: 'right',
-                    padding: '2px', // Optional: Adds padding around the text
-                    textShadow: '2px 2px 4px rgba(0, 0, 0, 0.8)'
-                }}>
-                    <FavoriteIcon style={{marginRight: '8px', fontSize: 'medium'}}/>Photography/ Painting/ Traveling
-                </div>
+                <img src="https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/photo.jpg" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
             <div>
                 <p className="dm-serif-display-regular" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', fontSize: '35px'}}>

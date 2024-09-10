@@ -5,26 +5,26 @@ export const featurettes = [
         text: "童話故事對多數人來說，都是正面並且陪伴大家度過童年時光的美好讀物，但當獨裁遇上童話又會燃起什麼樣的火花呢？希望藉由這個碰撞讓讀者感受，並反思專制下的蠻橫獨斷行為，其可能發生的原因與結果。",
         text2: "作品為A3繪本，分為上、下冊，總共四冊(中英各一本)。A3大小更能呈現獨裁者的霸氣和狂放， 印刷使用孔版印刷搭配 CMYK 印刷，封面與封底使用孔版兩色印刷，內頁則是由孔版與 CMYK 印刷而成。螢光粉是獨裁主角的代表色，整體使用獵奇手繪風，將主角繪製成陰險、不懷好意的模樣，使主角與他的殘暴自私的性格相符。繪本內容為童話故事結合獨裁議題，將我們創造的角色，套入故事裡專制獨裁的反派角色當中，而最後的結局，都會是由獨裁者用各種陰險狡詐的方式贏得勝利。",
         text4: "#獨裁議題 #黑色幽默 #童話繪本",
-        image1: "/portfolio/public/images/DESPOTISM/contest/csm_2023_PD_BoB_46bdb950fa.png",
-        image2: "/portfolio/public/images/DESPOTISM/contest/800x.png",
+        image1: "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/contest/csm_2023_PD_BoB_46bdb950fa.png",
+        image2: "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/contest/800x.png",
         imageUrls: [
-            "/portfolio/public/images/DESPOTISM/book/DSC08928.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC08964.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09044.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09050 2.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09095.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09099.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC08516-3.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09116.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09122.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC09132-05.jpg",
-            "/portfolio/public/images/DESPOTISM/book/DSC08861-2.jpg",
-            "/portfolio/public/images/DESPOTISM/merch/06265107.jpg",
-            "/portfolio/public/images/DESPOTISM/merch/明信片.jpg",
-            "/portfolio/public/images/DESPOTISM/poster/小美人魚海報A4.jpg",
-            "/portfolio/public/images/DESPOTISM/poster/吹笛人海報A4.jpg",
-            "/portfolio/public/images/DESPOTISM/poster/紅心皇后海報A4.jpg",
-            "/portfolio/public/images/DESPOTISM/poster/國王的新衣海報A4.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC08928.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC08964.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09044.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09050 2.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09095.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09099.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC08516-3.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09116.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09122.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC09132-05.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/book/DSC08861-2.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/merch/06265107.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/merch/明信片.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/poster/小美人魚海報A4.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/poster/吹笛人海報A4.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/poster/紅心皇后海報A4.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/DESPOTISM/poster/國王的新衣海報A4.jpg"
           ]
     },
     {
@@ -34,19 +34,19 @@ export const featurettes = [
         text3: "AR小卡設計，外觀為戲台，左右有平安結為大家乞求平安，卡片人物採層層堆疊的方式製造立體效果，卡片背後有MAKAR app的下載Qrcode，方便大家下載使用AR功能。",
         text4: "#廟宇文化 #教育推廣 #AR互動",
         text5: "XR實境教育創意大賞-主獎項 佳作",
-        image1: "/portfolio/public/images/came down/logo/XR-logo.png",
+        image1: "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/logo/XR-logo.png",
         imageUrls: [
-            "/portfolio/public/images/came down/merch/came down poster.jpg",
-            "/portfolio/public/images/came down/card/投影片27.jpg",
-            "/portfolio/public/images/came down/card/投影片28.jpg",
-            "/portfolio/public/images/came down/card/投影片29.jpg",
-            "/portfolio/public/images/came down/card/投影片30.jpg",
-            "/portfolio/public/images/came down/card/投影片31.jpg",
-            "/portfolio/public/images/came down/card/投影片32.jpg",
-            "/portfolio/public/images/came down/card/投影片34.jpg",
-            "/portfolio/public/images/came down/card/投影片35.jpg",
-            "/portfolio/public/images/came down/card/下凡啦包.jpg",
-            "/portfolio/public/images/came down/card/下凡啦包裝封面.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/merch/came down poster.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片27.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片28.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片29.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片30.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片31.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片32.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片34.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/投影片35.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/下凡啦包.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/came down/card/下凡啦包裝封面.jpg"
           ],
         reverse: true
     },
@@ -57,14 +57,14 @@ export const featurettes = [
         text3: "藍色桃花：幽靜的藍色代表著機遇，對戀愛的渴望，把握機會，桃醉在桃園的擁抱之中。紫色桃花：神秘的紫色代表擄獲，抓住大家的心和視線，擄獲你的感官。粉色桃花：柔和的粉色代表的是祝福，想讓大家帶著桃園的祝福相約再見桃花。",
         text4: "#活動視覺 #AE動畫 #Mockup",
         imageUrls: [
-            "/portfolio/public/images/尋找桃花單獨門版最終動畫2.gif",
-            "/portfolio/public/images/folwer/看板mockup.png",
-            "/portfolio/public/images/folwer/poster.png",
-            "/portfolio/public/images/folwer/工作人衣服2.jpg",
-            "/portfolio/public/images/folwer/衣服系列2.jpg",
-            "/portfolio/public/images/folwer/工作證.jpg",
-            "/portfolio/public/images/folwer/系列徽章3.jpg",
-            "/portfolio/public/images/folwer/袋子系列2.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/尋找桃花單獨門版最終動畫2.gif",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/看板mockup.png",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/poster.png",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/工作人衣服2.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/衣服系列2.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/工作證.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/系列徽章3.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/folwer/袋子系列2.jpg"
           ],
         
     },
@@ -74,12 +74,12 @@ export const featurettes = [
         text2: "設計了六款融合啤酒口味小妖怪，並且分為普通款和節日限定包裝，限定包裝具有燙金效果，包裝的簍空效果讓妖怪像是從酒瓶中跑出來一樣。",
         text4: "#插畫設計 #包裝設計 #Mockup",
         imageUrls: [
-            "/portfolio/public/images/u/u-poster.jpg",
-            "/portfolio/public/images/u/Behance-U-02.jpg",
-            "/portfolio/public/images/u/Behance-03.jpg",
-            "/portfolio/public/images/u/Behance-04.jpg",
-            "/portfolio/public/images/u/Behance-05.jpg",
-            "/portfolio/public/images/u/Behance-06.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/u-poster.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/Behance-U-02.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/Behance-03.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/Behance-04.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/Behance-05.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/u/Behance-06.jpg"
           ],
         reverse: true
     },
@@ -89,14 +89,14 @@ export const featurettes = [
         text2: "標準字以飛機雲為概念，飛機飛過去時所留下的雲朵形狀，形成了標準字，隨性中帶有個性，也呼應標誌的雲朵，和雲朵一起在天空翱翔。",
         text4: "Slogan: Fly High!",
         imageUrls: [
-            "/portfolio/public/images/CIS/識別形象海報.jpg",
-            "/portfolio/public/images/CIS/西式信封.jpg",
-            "/portfolio/public/images/CIS/識別中式信封.jpg",
-            "/portfolio/public/images/CIS/識別名片.jpg",
-            "/portfolio/public/images/CIS/月曆.jpg",
-            "/portfolio/public/images/CIS/識別紙袋.jpg",
-            "/portfolio/public/images/CIS/識別筆記本2.jpg",
-            "/portfolio/public/images/CIS/識別馬克杯.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別形象海報.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/西式信封.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別中式信封.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別名片.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/月曆.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別紙袋.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別筆記本2.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CIS/識別馬克杯.jpg"
           ]
     },
     {
@@ -104,9 +104,9 @@ export const featurettes = [
         text: "現今的寵物領養平台都有資訊、版面太過複雜的現象，所以設計了一款版面乾淨、好上手、配色溫馨的平台介面設計。",
         text4: "#UI/ UX #Prototype #Adobe XD",
         imageUrls: [
-            "/portfolio/public/images/ui/dog/網頁封面.jpg",
-            "/portfolio/public/images/ui/dog/刊登送養.jpg",
-            "/portfolio/public/images/ui/dog/Device Mockup.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/dog/網頁封面.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/dog/刊登送養.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/dog/Device Mockup.jpg"
           ],
         
         reverse: true
@@ -117,11 +117,11 @@ export const featurettes = [
         text: "家具app UI設計，整體色調採用日系無印風，Home頁為乾淨明亮的書桌牆面，告訴大家乾淨明亮的居家生活即將開始，任何人都可以打造屬於自己的房間。",
         text4: "#UI/ UX #Prototype #Adobe XD",
         imageUrls: [
-            "/portfolio/public/images/ui/home/home-01.jpeg",
-            "/portfolio/public/images/ui/home/home-02.png",
-            "/portfolio/public/images/ui/home/home-03.png",
-            "/portfolio/public/images/ui/home/home-04.png",
-            "/portfolio/public/images/ui/home/ui展示.png"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/home/home-01.jpeg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/home/home-02.png",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/home/home-03.png",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/home/home-04.png",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/home/ui展示.png"
           ]
     },
     {
@@ -131,9 +131,9 @@ export const featurettes = [
         text3: "App內容有每日推薦穿搭、風格分類、商品選購、分享穿搭和商家資訊，可以依照自己的穿搭喜好收藏、購買、分享，打造出多功能的社群平台。",
         text4: "#UI/ UX #Prototype #Adobe XD",
         imageUrls: [
-            "/portfolio/public/images/ui/ootd/ootd1.jpg",
-            "/portfolio/public/images/ui/ootd/ootd2.jpg",
-            "/portfolio/public/images/ui/ootd/ootd3.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/ootd/ootd1.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/ootd/ootd2.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/ui/ootd/ootd3.jpg"
           ],
         
         reverse: true
@@ -145,14 +145,14 @@ export const featurettes = [
         text2: "封面使用醒目的鮮紅色當底，背景有不同的子彈在穿梭。",
         text4: "#封面設計 #排版設計 #InDesign",
         imageUrls: [
-            "/portfolio/public/images/game/game1.jpg",
-            "/portfolio/public/images/game/game2.jpg",
-            "/portfolio/public/images/game/game3.jpg",
-            "/portfolio/public/images/game/game4.jpg",
-            "/portfolio/public/images/game/game5.jpg",
-            "/portfolio/public/images/game/game6.jpg",
-            "/portfolio/public/images/game/game7.jpg",
-            "/portfolio/public/images/game/game8.jpg"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game1.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game2.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game3.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game4.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game5.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game6.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game7.jpg",
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/game8.jpg"
           ]
     },
     // Add more featurettes as needed
