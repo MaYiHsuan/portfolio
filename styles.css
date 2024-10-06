@@ -230,3 +230,13 @@
   background-color: #e9ecef; /* 鼠标悬停时的背景颜色 */
 }
 
+.link {
+  color: #999;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #555; /* 滑鼠移到連結上時的顏色 */
+}
+
