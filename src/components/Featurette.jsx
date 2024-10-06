@@ -27,7 +27,7 @@ const Featurette = ({ heading, heading2, text, text2, text3, text4, text5, image
                 <p>{text4}<br />{text5}</p>
                 {link && (
                     <a href={link} target="_blank" rel="noopener noreferrer" className="link">
-                        <img src="https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/link.png" width="25"/>&nbsp;Open Link
+                        <img src="https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/link.png" width="15"/>&nbsp;Open Link
                     </a>
                 )}
                 <div>

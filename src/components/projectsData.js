@@ -75,7 +75,7 @@ export const featurettes = [
         text4: "#Webflow #網站設計 #攝影作品",
         link: "https://cindys-photo-gallery.webflow.io",
         imageUrls: [
-            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/CSS/CSS/Frame1.png"
+            "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/CSS/Frame1.png"
           ]
     },
     {
@@ -178,11 +178,11 @@ export const featurettes = [
     text2: "封面使用醒目的鮮紅色當底，背景有不同的子彈在穿梭。",
     text4: "#封面設計 #排版設計 #InDesign",
     imageUrls: [
-        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/封面.png",
-        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/目錄.png",
-        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/特務介紹.png",
-        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/角色介紹.png",
-        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/地圖.png"
+        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/封面1.png",
+        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/目錄1.png",
+        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/特務介紹1.png",
+        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/角色介紹1.png",
+        "https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/game/地圖1.png"
       ]
   },
     // Add more featurettes as needed
