@@ -12,7 +12,7 @@ function Projects() {
                 <div className="col-md-8">
                     <h1 className="display-4 mb-2">Projects</h1>
                     <h2 lang="zh" className="chinese-text h4 mb-2">團體和個人作品</h2>
-                    <p lang="zh" className="chinese-text text-muted">畢業製作 / AR互動設計 / 活動視覺設計 / 包裝設計 / 識別設計 / 介面設計 / 雜誌設計</p>
+                    <p lang="zh" className="chinese-text text-muted">畢業製作 / UI/UX / 網站前端 / AR互動設計 / 活動視覺設計 / 包裝設計 / 識別設計 / 雜誌設計</p>
                     
                 </div>
             </div>

@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel } from 'react-bootstrap';
 import "../../public/styles.css";
 
-const Featurette = ({ heading, heading2, text, text2, text3, text4, text5, image1, image2, videoUrl, imageUrls, reverse }) => {
+const Featurette = ({ heading, heading2, text, text2, text3, text4, text5, image1, image2, link, imageUrls, reverse }) => {
     const getOrientationClass = (url) => {
         switch (url) {
             case '/video/多媒體設計錄影.mp4':
@@ -25,6 +25,11 @@ const Featurette = ({ heading, heading2, text, text2, text3, text4, text5, image
             <p>{text3}</p>
             <div className="col-md-5 text3">
                 <p>{text4}<br />{text5}</p>
+                {link && (
+                    <a href={link} target="_blank" rel="noopener noreferrer" className="link">
+                        <img src="https://cdn.jsdelivr.net/gh/MaYiHsuan/Photos/images/link.png" width="25"/>&nbsp;Open Link
+                    </a>
+                )}
                 <div>
                     <img src={image1} width="80" className="me-2"/><img src={image2} width="100"/>
                 </div>
@@ -32,17 +37,6 @@ const Featurette = ({ heading, heading2, text, text2, text3, text4, text5, image
         </div>
         <div className="col-md-5">
             <Carousel className="carousel-continuous" interval={null} controls={true} indicators={true}>
-                {videoUrl && (
-                    <Carousel.Item>
-                        <div className={`video-container ${getOrientationClass(videoUrl)}`}>
-                            <video
-                                className="d-block w-100"
-                                controls
-                                src={videoUrl}
-                            />
-                        </div>
-                    </Carousel.Item>
-                )}
                 {imageUrls.map((url, index) => (
                     <Carousel.Item key={index}>
                         <div className="fixed-height-carousel-item">
